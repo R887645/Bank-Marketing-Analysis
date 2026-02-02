@@ -237,6 +237,15 @@ As a Marketing Data Analyst, I would recommend that the bank:
 
 ---
 
+## Challenges Encountered
+During the course of this analysis, I faced a few technical and design challenges that ultimately strengthened the dashboard:
+
+- **Date Column Import:** Initially, the dataset lacked a proper date column, which made time intelligence measures difficult. I resolved this by restructuring the data and introducing a full date dimension, enabling accurate MoM and YoY analysis.
+
+- **Bookmark Interactivity:** Implementing bookmarks with reset functionality and smooth navigation was complex at first. After several iterations, I successfully integrated them, enhancing the dashboard’s usability and stakeholder experience.
+
+Overcoming these challenges not only improved the dashboard but also deepened my expertise in Power BI’s advanced features.
+
 ## Conclusion
 
 This project demonstrates my expertise in marketing analytics, data modeling, DAX analysis, wireframing, and interactive dashboard design. 
