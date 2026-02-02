@@ -1,6 +1,6 @@
 # Introduction
 
-I revisited a bank marketing project originally built in Power BI nearly two years ago. The dashboard was designed to evaluate subscription campaign performance and client segmentation, but at the time, it lacked the clarity, structure, and interactivity needed to drive strategic decision‑making.
+I revisited my bank marketing project, originally built in Power BI nearly two years ago. The dashboard was designed to evaluate subscription campaign performance and client segmentation, but at the time, it lacked the clarity, structure, and interactivity needed to drive strategic decision‑making.
 
 Rebuilding the project allowed me to apply advanced skills in data modeling, DAX analysis, wireframing, and interactive dashboard design. The result is a two‑page dashboard that separates Campaign Performance from Client Segmentation & Strategic Insights, providing stakeholders with a cleaner narrative and actionable insights.
 
