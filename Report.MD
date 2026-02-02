@@ -4,7 +4,6 @@ I revisited a bank marketing project originally built in Power BI nearly two yea
 
 Rebuilding the project allowed me to apply advanced skills in data modeling, DAX analysis, wireframing, and interactive dashboard design. The result is a two‑page dashboard that separates Campaign Performance from Client Segmentation & Strategic Insights, providing stakeholders with a cleaner narrative and actionable insights.
 
-![Old Dashboard Built](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/old%20Bank%20Marketing%20campaign%201.png?raw=true)
 ---
 
 ## Business Problem
@@ -67,10 +66,12 @@ The following preparation steps were completed:
 
 - Creation of a proper date column for time intelligence  
 - Cleaning and standardization of categorical fields of about 
-- Normalization of job and education categories using List in Powr BI 
+- Normalization of job and education categories using a list in Power BI 
 - Removal of inconsistencies and formatting issues  
 - Creation of calculated metrics and segmentation logic  
 - Client grouping based on balance and engagement  
+
+![Bank_Power_Query](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/Bank_PowerQuery.png?raw=true)
 
 ---
 
